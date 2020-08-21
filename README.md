@@ -1,5 +1,7 @@
 # `createElement` NO MORE!
 
+[🇧🇷 Versão em Português »](./README.ptBR.md)
+
 Most people know only 2 ways to render HTML using Vanilla JS: by setting the `innerHTML` of the
 container element or using `createElement` to create every single HTML element and appending it to
 your respective father.

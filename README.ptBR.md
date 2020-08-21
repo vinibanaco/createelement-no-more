@@ -1,5 +1,7 @@
 # `createElement` NO MORE!
 
+[🇺🇸 English version »](./README.md)
+
 A maioria das pessoas conhece apenas 2 jeitos de renderizar HTML usando JS Vanilla: definindo o
 `innerHTML` do elemento container, ou usando o `createElement` para criar cada um dos elementos HTML
 e adicioná-lo ao seu respectivo elemento pai.
