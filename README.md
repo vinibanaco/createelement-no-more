@@ -61,7 +61,7 @@ posts.forEach((post) => {
   headerElement.classList = ['post__header'];
   headerElement.appendChild(titleElement);
 
-  // You understood...
+  // You get it...
 
   postListElement.appendChild(postElement);
 });
